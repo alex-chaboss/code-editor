@@ -1,0 +1,12 @@
+*.pyc
+.directory
+.idea
+*.csv
+test.wav
+/venv
+/env
+/myenv
+/libs/PyTorch/generator3D/objaverse
+/core/gng/dump
+/core/tmp
+/HANNA/tmp
